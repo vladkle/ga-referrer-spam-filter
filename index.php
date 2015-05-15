@@ -7,7 +7,7 @@ $clientId     = '<CLIENT_ID>';
 $clientSecret = '<CLIENT_SECRET>';
 $redirectUri  = '<REDIRECT_URI>';
 /** @var string|string[] $accountIds id or ids of accounts to add the exclude filter to */
-$accountIds   = ['<ACCOUNT_ID>'];
+$accountIds   = ['48337365'];
 
 $excludedItems = [
     'simple-share-buttons.com',
